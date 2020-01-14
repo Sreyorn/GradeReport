@@ -1,0 +1,15 @@
+3 234
+Lisa Miller 121901 Y 4
+Math MTH990 4 A
+Physics PHY003 3 B
+History HIS384 3 B
+Korean KOR342 3 F
+
+John Boe 132932 N 2
+Math MTH883 3 C
+OOP CPP834 3 B
+
+Dara Sam 43534 Y 3
+Math MTH990 4 A
+Physics PHY003 3 B
+History HIS384 3 B

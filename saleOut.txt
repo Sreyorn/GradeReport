@@ -1,0 +1,24 @@
+Student Name: Lisa Miller
+Number of courses enrolled: 0
+
+Course No  CourseName   Credits Grade 
+
+Total number of credit hours: 0
+Grades are being held for not paying the tuition.
+Amount Due: $0.00
+Student Name: Korean KOR342
+Number of courses enrolled: 0
+
+Course No  CourseName   Credits Grade 
+
+Total number of credit hours: 0
+Grades are being held for not paying the tuition.
+Amount Due: $0.00
+Student Name: Korean KOR342
+Number of courses enrolled: 0
+
+Course No  CourseName   Credits Grade 
+
+Total number of credit hours: 0
+Grades are being held for not paying the tuition.
+Amount Due: $0.00
